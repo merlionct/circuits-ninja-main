@@ -1,7 +1,7 @@
 ---
 title: test
 date: 2022-02-25T09:37:23.216Z
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
